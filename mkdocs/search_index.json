@@ -1,0 +1,19 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Skills\n\n\n\n\ngo\n\n\npolished CTAs animations, easing, timings\n\n\nWeb Animations API\n ( Not well supported yet )\n\n\n\n\n\n\nes6 / es7 via \nbabel\n ect\n\n\negghead.io\n\n\n\n\n\n\nember.js\n\n\nangular 2.0\n\n\nResources\n\n\negghead.io\n\n\n\n\n\n\n\n\n\n\nWeb GL\n\n\nThrees.js\n\n\n\n\n\n\nmachine learning / data analysis\n\n\nUser experience research \n Testing\n\n\nRecommendation Algorithms\n\n\nImage Analysis\n\n\n\n\n\n\nPolymer\n\n\nNoSQL stores choices, implementation, and data model design\n\n\nNeo4j\n\n\nRethinkDB\n\n\nRiak\n\n\nOrientDB\n\n\nCouchDB\n / \nCouchBase\n\n\nRedis geo ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )\n\n\nDynamoDB\n / \nVoldemort\n\n\nMore work with MongoDB\n\n\nSophia\n\n\nLevelDB\n\n\n\n\n\n\nStatic sites:\n\n\nOrganism architecture.\n\n\n\n\n\n\nd3.js\n\n\niOS\n\n\nandroid\n\n\nRiot.js\n\n\n\n\nActivities\n\n\n\n\nblog post, building client side apps with travis\n\n\nOpen source api framework based on Django\n\n\nOpen source hybrid app framework based on ionic / angular 1 / angular 2\n\n\ncreating a hybrid apps\n\n\nbuilding a static site from scratch\n\n\nmetrics page\n\n\nWeb team standards. Make them generic and applicable to any team\n\n\nPing \u2014  minimalist location requesting app", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#skills", 
+            "text": "go  polished CTAs animations, easing, timings  Web Animations API  ( Not well supported yet )    es6 / es7 via  babel  ect  egghead.io    ember.js  angular 2.0  Resources  egghead.io      Web GL  Threes.js    machine learning / data analysis  User experience research   Testing  Recommendation Algorithms  Image Analysis    Polymer  NoSQL stores choices, implementation, and data model design  Neo4j  RethinkDB  Riak  OrientDB  CouchDB  /  CouchBase  Redis geo ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )  DynamoDB  /  Voldemort  More work with MongoDB  Sophia  LevelDB    Static sites:  Organism architecture.    d3.js  iOS  android  Riot.js", 
+            "title": "Skills"
+        }, 
+        {
+            "location": "/#activities", 
+            "text": "blog post, building client side apps with travis  Open source api framework based on Django  Open source hybrid app framework based on ionic / angular 1 / angular 2  creating a hybrid apps  building a static site from scratch  metrics page  Web team standards. Make them generic and applicable to any team  Ping \u2014  minimalist location requesting app", 
+            "title": "Activities"
+        }
+    ]
+}
