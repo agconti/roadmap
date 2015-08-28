@@ -72,8 +72,13 @@
         }, 
         {
             "location": "/proposals/building-client-side-apps-with-travis/", 
-            "text": "Opportunity\n\n\nCurrently there are no guides on how to leverage Travis and other CI solutions to build and deploy Front-end applications based on environments.\n\n\nHypothesis\n\n\nDevelopers would like to read an article that explains how to setup CI and automated deployment for client-side applications.\n\n\nAudience\n\n\n\n\nClient-side developers everywhere\n\n\nIndividuals interested continuous integration and automated deployment\n\n\nIndividuals interested in ustwo\u2019s tech blog\n\n\n\n\nValue\n\n\n\n\nIncreased ustwo\u2019s presence and visibility within the tech community\n\n\nShare knowledge with developers in other studios and beyond\n\n\nGive back to the open source community\n\n\n\n\nObjectives to reach value\n\n\n\n\nWrite a simple and effective \u201cHow to\u201d.\n\n\nCreate open source examples to support the article.\n\n\nIntegrate Disqus to communicate with the community.\n\n\n\n\nValidation Plan\n\n\n\n\nTrack page hits via Google analytics\n\n\nGauge the communities reaction via posted comments\n\n\n\n\nWhat does MVP look like?\n\n\nA simple blog post on ustwo New York\u2019s tech blog.\n\n\nCasting / Human Resource needs\n\n\n\n\nDeveloper\n\n\nVisual Designer to style post\n\n\n\n\nTimeline estimation to MVP\n\n\n1 week to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nustwo Tech Team\n\n\nMarketing Department\n\n\nTech Director", 
+            "text": "Blog post: \"Building client side apps with Travis\"\n\n\nOpportunity\n\n\nCurrently there are no guides on how to leverage Travis and other CI solutions to build and deploy Front-end applications based on environments.\n\n\nHypothesis\n\n\nDevelopers would like to read an article that explains how to setup CI and automated deployment for client-side applications.\n\n\nAudience\n\n\n\n\nClient-side developers everywhere\n\n\nIndividuals interested continuous integration and automated deployment\n\n\nIndividuals interested in ustwo\u2019s tech blog\n\n\n\n\nValue\n\n\n\n\nIncreased ustwo\u2019s presence and visibility within the tech community\n\n\nShare knowledge with developers in other studios and beyond\n\n\nGive back to the open source community\n\n\n\n\nObjectives to reach value\n\n\n\n\nWrite a simple and effective \u201cHow to\u201d.\n\n\nCreate open source examples to support the article.\n\n\nIntegrate Disqus to communicate with the community.\n\n\n\n\nValidation Plan\n\n\n\n\nTrack page hits via Google Analytics\n\n\nGauge the communities reaction via posted comments\n\n\n\n\nWhat does MVP look like?\n\n\nA simple blog post on ustwo New York\u2019s tech blog.\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Developer\n\n\n( 1 ) Visual Designer to style post\n\n\n\n\nTimeline estimation to MVP\n\n\n1 week to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nustwo Tech Team\n\n\nMarketing Department\n\n\nTech Director", 
             "title": "building-client-side-apps-with-travis"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#blog-post-building-client-side-apps-with-travis", 
+            "text": "", 
+            "title": "Blog post: \"Building client side apps with Travis\""
         }, 
         {
             "location": "/proposals/building-client-side-apps-with-travis/#opportunity", 
@@ -102,7 +107,7 @@
         }, 
         {
             "location": "/proposals/building-client-side-apps-with-travis/#validation-plan", 
-            "text": "Track page hits via Google analytics  Gauge the communities reaction via posted comments", 
+            "text": "Track page hits via Google Analytics  Gauge the communities reaction via posted comments", 
             "title": "Validation Plan"
         }, 
         {
@@ -112,7 +117,7 @@
         }, 
         {
             "location": "/proposals/building-client-side-apps-with-travis/#casting-human-resource-needs", 
-            "text": "Developer  Visual Designer to style post", 
+            "text": "( 1 ) Developer  ( 1 ) Visual Designer to style post", 
             "title": "Casting / Human Resource needs"
         }, 
         {
