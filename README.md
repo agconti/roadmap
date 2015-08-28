@@ -1,5 +1,5 @@
 # Road Map
-This project maps what technologies and skills I'm curious about and outlines projects to explore them. Checkout the [site](http://agconti.github.io/roadmap/).
+This project maps what technologies and skills I’m curious about and outlines projects to explore them. Checkout the [site](http://agconti.github.io/roadmap/).
 
 # Prerequisites:
 
@@ -19,7 +19,7 @@ Create a virtualenv:
 virtualenv env
 ```
 
-Acitvate the enviorment:
+Activate the environment:
 
 ```bash
 source env/bin/activate
