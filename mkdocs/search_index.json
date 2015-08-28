@@ -22,13 +22,38 @@
         }, 
         {
             "location": "/skills/", 
-            "text": "Skills\n\n\n\n\ngo\n\n\npolished CTAs animations, easing, timings\n\n\nWeb Animations API\n ( Not well supported yet )\n\n\n\n\n\n\nes6 / es7 via \nbabel\n ect\n\n\negghead.io\n\n\n\n\n\n\nember.js\n\n\nangular 2.0\n\n\nResources\n\n\negghead.io\n\n\n\n\n\n\n\n\n\n\nWeb GL\n\n\nThrees.js\n\n\n\n\n\n\nmachine learning / data analysis\n\n\nUser experience research \n Testing\n\n\nRecommendation Algorithms\n\n\nImage Analysis\n\n\n\n\n\n\nPolymer\n\n\nNoSQL stores choices, implementation, and data model design\n\n\nNeo4j\n\n\nRethinkDB\n\n\nRiak\n\n\nOrientDB\n\n\nCouchDB\n / \nCouchBase\n\n\nRedis geo ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )\n\n\nDynamoDB\n / \nVoldemort\n\n\nMore work with MongoDB\n\n\nSophia\n\n\nLevelDB\n\n\n\n\n\n\nStatic sites:\n\n\nOrganism architecture.\n\n\n\n\n\n\nd3.js\n\n\niOS\n\n\nandroid\n\n\nRiot.js", 
-            "title": "Skills"
+            "text": "Skills\n\n\n( Ordered by interest )\n\n\n\n\nES6 \n ES7 specifciaions via \nBabel.js\n\n\nAngular 2.0\n\n\nPolished CTAs animations, easing, timings\n\n\nMachine Learning \n Data Analysis\n\n\nStatic sites\n\n\nGoogle Analtics API\n to collect app metrics\n\n\nGo Lang\n\n\nEmber.js\n\n\nNoSQL stores\n\n\niOS\n\n\nAndroid\n\n\nWeb GL\n\n\nPolymer\n\n\nD3.js", 
+            "title": "index"
         }, 
         {
             "location": "/skills/#skills", 
-            "text": "go  polished CTAs animations, easing, timings  Web Animations API  ( Not well supported yet )    es6 / es7 via  babel  ect  egghead.io    ember.js  angular 2.0  Resources  egghead.io      Web GL  Threes.js    machine learning / data analysis  User experience research   Testing  Recommendation Algorithms  Image Analysis    Polymer  NoSQL stores choices, implementation, and data model design  Neo4j  RethinkDB  Riak  OrientDB  CouchDB  /  CouchBase  Redis geo ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )  DynamoDB  /  Voldemort  More work with MongoDB  Sophia  LevelDB    Static sites:  Organism architecture.    d3.js  iOS  android  Riot.js", 
+            "text": "( Ordered by interest )   ES6   ES7 specifciaions via  Babel.js  Angular 2.0  Polished CTAs animations, easing, timings  Machine Learning   Data Analysis  Static sites  Google Analtics API  to collect app metrics  Go Lang  Ember.js  NoSQL stores  iOS  Android  Web GL  Polymer  D3.js", 
             "title": "Skills"
+        }, 
+        {
+            "location": "/skills/nosql/", 
+            "text": "NoSQL choices, implementation, and data model design:\n\n\n\n\nNeo4j\n\n\nRethinkDB\n\n\nRiak\n\n\nOrientDB\n\n\nCouchDB\n / \nCouchBase\n\n\nRedis Geo ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )\n\n\nDynamoDB\n / \nVoldemort\n\n\nMongoDB\n\n\nSophia\n\n\nLevelDB", 
+            "title": "nosql"
+        }, 
+        {
+            "location": "/skills/machine-learning/", 
+            "text": "Machine Learning \n Data Analysis\n\n\n\n\nUser experience research \n Testing\n\n\nRecommendation Algorithms\n\n\nImage Analysis", 
+            "title": "machine-learning"
+        }, 
+        {
+            "location": "/skills/machine-learning/#machine-learning-data-analysis", 
+            "text": "User experience research   Testing  Recommendation Algorithms  Image Analysis", 
+            "title": "Machine Learning &amp; Data Analysis"
+        }, 
+        {
+            "location": "/skills/static-sites/", 
+            "text": "Static sites:\n\n\n\n\nAtomic Design\n\n\nLeveraging dependency injection with \nSystems.js\n\n\nLeveraging dependency injection with \nBrowserify", 
+            "title": "static-sites"
+        }, 
+        {
+            "location": "/skills/static-sites/#static-sites", 
+            "text": "Atomic Design  Leveraging dependency injection with  Systems.js  Leveraging dependency injection with  Browserify", 
+            "title": "Static sites:"
         }, 
         {
             "location": "/proposals/", 

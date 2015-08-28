@@ -10,11 +10,31 @@
     
 
     
+        
     <url>
      <loc>None/skills/</loc>
      <lastmod>2015-08-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None/skills/nosql/</loc>
+     <lastmod>2015-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/skills/machine-learning/</loc>
+     <lastmod>2015-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/skills/static-sites/</loc>
+     <lastmod>2015-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
