@@ -55,3 +55,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# mkdocs output
+_site
