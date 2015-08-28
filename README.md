@@ -1,5 +1,5 @@
-# roadmap
-This repository maps what technologies and skills I'm curious about and outlines projects to explore them.
+# Road Map
+This project maps what technologies and skills I'm curious about and outlines projects to explore them. Checkout the [site](http://agconti.github.io/roadmap/).
 
 # Prerequisites:
 
