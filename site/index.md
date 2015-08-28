@@ -1,4 +1,5 @@
-Skills
+# Skills
+
 - [go](https://golang.org/)
 - polished CTAs animations, easing, timings
 	- [Web Animations API](https://github.com/web-animations/web-animations-js) ( Not well supported yet )
@@ -35,7 +36,8 @@ Skills
 
 
 
-Activities
+# Activities
+
 - blog post, building client side apps with travis
 - Open source api framework based on Django
 - Open source hybrid app framework based on ionic / angular 1 / angular 2
