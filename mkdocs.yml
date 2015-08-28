@@ -1,0 +1,9 @@
+site_name: Road Map
+site_description: A site to map couriosities
+repo_url: https://github.com/agconti/roadmap
+docs_dir: site
+site_dir: _site
+copyright: Copyright &copy; 2015, <a href="https://github.com/agconti">agconti</a>.
+
+pages:
+  - Home: 'index.md'
