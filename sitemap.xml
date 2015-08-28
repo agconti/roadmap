@@ -38,11 +38,19 @@
     
 
     
+        
     <url>
      <loc>None/proposals/</loc>
      <lastmod>2015-08-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>None/proposals/building-client-side-apps-with-travis/</loc>
+     <lastmod>2015-08-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>

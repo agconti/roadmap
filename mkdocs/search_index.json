@@ -22,18 +22,23 @@
         }, 
         {
             "location": "/skills/", 
-            "text": "Skills\n\n\n( Ordered by interest )\n\n\n\n\nES6 \n ES7 specifciaions via \nBabel.js\n\n\nAngular 2.0\n\n\nPolished CTAs animations, easing, timings\n\n\nMachine Learning \n Data Analysis\n\n\nStatic sites\n\n\nGoogle Analtics API\n to collect app metrics\n\n\nGo Lang\n\n\nEmber.js\n\n\nNoSQL stores\n\n\niOS\n\n\nAndroid\n\n\nWeb GL\n\n\nPolymer\n\n\nD3.js", 
-            "title": "index"
+            "text": "Skills\n\n\n( Ordered by interest )\n\n\n\n\nES6 \n ES7 specifciaions via \nBabel.js\n\n\nAngular 2.0\n\n\nPolished CTAs animations, easing, timings\n\n\nCreating hybrid apps\n\n\nMachine Learning \n Data Analysis\n\n\nStatic sites\n\n\nGoogle Analtics API\n to collect app metrics\n\n\nGo Lang\n\n\nEmber.js\n\n\nNoSQL stores\n\n\niOS\n\n\nAndroid\n\n\nWeb GL\n\n\nPolymer\n\n\nD3.js", 
+            "title": "Home"
         }, 
         {
             "location": "/skills/#skills", 
-            "text": "( Ordered by interest )   ES6   ES7 specifciaions via  Babel.js  Angular 2.0  Polished CTAs animations, easing, timings  Machine Learning   Data Analysis  Static sites  Google Analtics API  to collect app metrics  Go Lang  Ember.js  NoSQL stores  iOS  Android  Web GL  Polymer  D3.js", 
+            "text": "( Ordered by interest )   ES6   ES7 specifciaions via  Babel.js  Angular 2.0  Polished CTAs animations, easing, timings  Creating hybrid apps  Machine Learning   Data Analysis  Static sites  Google Analtics API  to collect app metrics  Go Lang  Ember.js  NoSQL stores  iOS  Android  Web GL  Polymer  D3.js", 
             "title": "Skills"
         }, 
         {
             "location": "/skills/nosql/", 
-            "text": "NoSQL choices, implementation, and data model design:\n\n\n\n\nNeo4j\n\n\nRethinkDB\n\n\nRiak\n\n\nOrientDB\n\n\nCouchDB\n / \nCouchBase\n\n\nRedis Geo ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )\n\n\nDynamoDB\n / \nVoldemort\n\n\nMongoDB\n\n\nSophia\n\n\nLevelDB", 
+            "text": "NoSQL choices, implementation, and data model design.\n\n\n(Ordered by interest.)\n\n\n\n\nRedis Geo\n ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )\n\n\nRethinkDB\n\n\nRiak\n\n\nNeo4j\n\n\nOrientDB\n\n\nDynamoDB\n / \nVoldemort\n\n\nCouchDB\n / \nCouchBase\n\n\nSophia\n\n\nLevelDB\n\n\nMongoDB", 
             "title": "nosql"
+        }, 
+        {
+            "location": "/skills/nosql/#nosql-choices-implementation-and-data-model-design", 
+            "text": "(Ordered by interest.)   Redis Geo  ( only a feature of a store but I\u2019m specifically interested in leveraging for mobile apps it over using postgis )  RethinkDB  Riak  Neo4j  OrientDB  DynamoDB  /  Voldemort  CouchDB  /  CouchBase  Sophia  LevelDB  MongoDB", 
+            "title": "NoSQL choices, implementation, and data model design."
         }, 
         {
             "location": "/skills/machine-learning/", 
@@ -47,23 +52,78 @@
         }, 
         {
             "location": "/skills/static-sites/", 
-            "text": "Static sites:\n\n\n\n\nAtomic Design\n\n\nLeveraging dependency injection with \nSystems.js\n\n\nLeveraging dependency injection with \nBrowserify", 
+            "text": "Static sites:\n\n\n\n\nAtomic Design\n\n\nLeveraging dependency injection with \nSystems.js\n\n\nLeveraging dependency injection with \nBrowserify\n\n\nThe process of building one from scratch.", 
             "title": "static-sites"
         }, 
         {
             "location": "/skills/static-sites/#static-sites", 
-            "text": "Atomic Design  Leveraging dependency injection with  Systems.js  Leveraging dependency injection with  Browserify", 
+            "text": "Atomic Design  Leveraging dependency injection with  Systems.js  Leveraging dependency injection with  Browserify  The process of building one from scratch.", 
             "title": "Static sites:"
         }, 
         {
             "location": "/proposals/", 
-            "text": "Proposals\n\n\n\n\nblog post, building client side apps with travis\n\n\nOpen source api framework based on Django\n\n\nOpen source hybrid app framework based on ionic / angular 1 / angular 2\n\n\ncreating a hybrid apps\n\n\nbuilding a static site from scratch\n\n\nmetrics page\n\n\nWeb team standards. Make them generic and applicable to any team\n\n\nPing \u2014  minimalist location requesting app", 
-            "title": "Proposals"
+            "text": "Proposals\n\n\n\n\nBlog post: \"Building client side apps with Travis\"\n\n\nOpen source api framework based on Django\n\n\nOpen source hybrid app framework based on ionic / angular 1 / angular 2\n\n\nPing \u2014  minimalist location requesting app\n\n\nMetrics page\n\n\nWeb team standards. Make them generic and applicable to any team\n\n\nRogo.js -- an javascript sdk for interacting with Rogo", 
+            "title": "Home"
         }, 
         {
             "location": "/proposals/#proposals", 
-            "text": "blog post, building client side apps with travis  Open source api framework based on Django  Open source hybrid app framework based on ionic / angular 1 / angular 2  creating a hybrid apps  building a static site from scratch  metrics page  Web team standards. Make them generic and applicable to any team  Ping \u2014  minimalist location requesting app", 
+            "text": "Blog post: \"Building client side apps with Travis\"  Open source api framework based on Django  Open source hybrid app framework based on ionic / angular 1 / angular 2  Ping \u2014  minimalist location requesting app  Metrics page  Web team standards. Make them generic and applicable to any team  Rogo.js -- an javascript sdk for interacting with Rogo", 
             "title": "Proposals"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/", 
+            "text": "Opportunity\n\n\nCurrently there are no guides on how to leverage Travis and other CI solutions to build and deploy Front-end applications based on environments.\n\n\nHypothesis\n\n\nDevelopers would like to read an article that explains how to setup CI and automated deployment for client-side applications.\n\n\nAudience\n\n\n\n\nClient-side developers everywhere\n\n\nIndividuals interested continuous integration and automated deployment\n\n\nIndividuals interested in ustwo\u2019s tech blog\n\n\n\n\nValue\n\n\n\n\nIncreased ustwo\u2019s presence and visibility within the tech community\n\n\nShare knowledge with developers in other studios and beyond\n\n\nGive back to the open source community\n\n\n\n\nObjectives to reach value\n\n\n\n\nWrite a simple and effective \u201cHow to\u201d.\n\n\nCreate open source examples to support the article.\n\n\nIntegrate Disqus to communicate with the community.\n\n\n\n\nValidation Plan\n\n\n\n\nTrack page hits via Google analytics\n\n\nGauge the communities reaction via posted comments\n\n\n\n\nWhat does MVP look like?\n\n\nA simple blog post on ustwo New York\u2019s tech blog.\n\n\nCasting / Human Resource needs\n\n\n\n\nDeveloper\n\n\nVisual Designer to style post\n\n\n\n\nTimeline estimation to MVP\n\n\n1 week to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nustwo Tech Team\n\n\nMarketing Department\n\n\nTech Director", 
+            "title": "building-client-side-apps-with-travis"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#opportunity", 
+            "text": "Currently there are no guides on how to leverage Travis and other CI solutions to build and deploy Front-end applications based on environments.", 
+            "title": "Opportunity"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#hypothesis", 
+            "text": "Developers would like to read an article that explains how to setup CI and automated deployment for client-side applications.", 
+            "title": "Hypothesis"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#audience", 
+            "text": "Client-side developers everywhere  Individuals interested continuous integration and automated deployment  Individuals interested in ustwo\u2019s tech blog", 
+            "title": "Audience"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#value", 
+            "text": "Increased ustwo\u2019s presence and visibility within the tech community  Share knowledge with developers in other studios and beyond  Give back to the open source community", 
+            "title": "Value"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#objectives-to-reach-value", 
+            "text": "Write a simple and effective \u201cHow to\u201d.  Create open source examples to support the article.  Integrate Disqus to communicate with the community.", 
+            "title": "Objectives to reach value"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#validation-plan", 
+            "text": "Track page hits via Google analytics  Gauge the communities reaction via posted comments", 
+            "title": "Validation Plan"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#what-does-mvp-look-like", 
+            "text": "A simple blog post on ustwo New York\u2019s tech blog.", 
+            "title": "What does MVP look like?"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#casting-human-resource-needs", 
+            "text": "Developer  Visual Designer to style post", 
+            "title": "Casting / Human Resource needs"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#timeline-estimation-to-mvp", 
+            "text": "1 week to get to MVP.", 
+            "title": "Timeline estimation to MVP"
+        }, 
+        {
+            "location": "/proposals/building-client-side-apps-with-travis/#accountability-stakeholders", 
+            "text": "ustwo Tech Team  Marketing Department  Tech Director", 
+            "title": "Accountability / Stakeholders"
         }
     ]
 }
