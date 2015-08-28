@@ -7,8 +7,10 @@ copyright: Copyright &copy; 2015, <a href="https://github.com/agconti">agconti</
 pages:
   - Home: 'index.md'
   - Skills:
-    - index: 'skills/index.md'
+    - Home: 'skills/index.md'
     - nosql: 'skills/nosql.md'
     - machine-learning: 'skills/machine-learning.md'
     - static-sites: 'skills/static-sites.md'
-  - Proposals: 'proposals/index.md'
+  - Proposals:
+    - Home: 'proposals/index.md'
+    - building-client-side-apps-with-travis: 'proposals/building-client-side-apps-with-travis.md'
