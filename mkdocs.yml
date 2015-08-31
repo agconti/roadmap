@@ -8,9 +8,11 @@ pages:
   - Home: 'index.md'
   - Skills:
     - Home: 'skills/index.md'
-    - nosql: 'skills/nosql.md'
-    - machine-learning: 'skills/machine-learning.md'
-    - static-sites: 'skills/static-sites.md'
+    - "ES6 / ES7": 'skills/es6-es7.md'
+    - "Angular 2": 'skills/angular-2.md'
+    - NoSQL: 'skills/nosql.md'
+    - "Machine Learning": 'skills/machine-learning.md'
+    - "Static Sites": 'skills/static-sites.md'
   - Proposals:
     - Home: 'proposals/index.md'
-    - building-client-side-apps-with-travis: 'proposals/building-client-side-apps-with-travis.md'
+    - "Building client side apps with Travis": 'proposals/building-client-side-apps-with-travis.md'
