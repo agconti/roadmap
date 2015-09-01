@@ -82,12 +82,12 @@
         }, 
         {
             "location": "/proposals/", 
-            "text": "Proposals\n\n\n\n\nBlog post: \"Building client side apps with Travis\"\n\n\ncookiecutter-django-rest\n: an open source api framework based on Django\n\n\ncookiecutter-ionic\n: an open source hybrid app framework based on ionic / angular 1 / angular 2\n\n\nApp metrics page\n\n\nBlog post: \"The State of static site testing\"\n\n\nBlog post: \"Why the MVC architecutal pattern is so important to app development\"\n\n\nPing -- minimalist location requesting app\n\n\nTeam standards. Make them generic and applicable to any team\n\n\nRogo.js", 
+            "text": "Proposals\n\n\n\n\nBlog post: \"Building client side apps with Travis\"\n\n\ncookiecutter-django-rest\n: an open source api framework based on Django\n\n\ncookiecutter-ionic\n: an open source hybrid app framework based on ionic / angular 1 / angular 2\n\n\nApp metrics page\n\n\nBlog post: \"The State of static site testing\"\n\n\nBlog post: \"Why the MVC architecutal pattern is so important to app development\"\n\n\nPing -- minimalist location requesting app\n\n\nApp metrics page\n\n\nTeam standards. Make them generic and applicable to any team\n\n\nRogo.js", 
             "title": "Home"
         }, 
         {
             "location": "/proposals/#proposals", 
-            "text": "Blog post: \"Building client side apps with Travis\"  cookiecutter-django-rest : an open source api framework based on Django  cookiecutter-ionic : an open source hybrid app framework based on ionic / angular 1 / angular 2  App metrics page  Blog post: \"The State of static site testing\"  Blog post: \"Why the MVC architecutal pattern is so important to app development\"  Ping -- minimalist location requesting app  Team standards. Make them generic and applicable to any team  Rogo.js", 
+            "text": "Blog post: \"Building client side apps with Travis\"  cookiecutter-django-rest : an open source api framework based on Django  cookiecutter-ionic : an open source hybrid app framework based on ionic / angular 1 / angular 2  App metrics page  Blog post: \"The State of static site testing\"  Blog post: \"Why the MVC architecutal pattern is so important to app development\"  Ping -- minimalist location requesting app  App metrics page  Team standards. Make them generic and applicable to any team  Rogo.js", 
             "title": "Proposals"
         }, 
         {
@@ -214,6 +214,131 @@
             "location": "/proposals/rogojs/#new-skills-utilized", 
             "text": "ES6   ES7 specifciaions", 
             "title": "New skills utilized"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/", 
+            "text": "Blog post: \"Why the MVC architectural pattern is so important to app development\"\n\n\nOpportunity\n\n\nCurrently there is no ( or are very few ) blog posts that discuss testing static sites. Most posts focus on testing web apps. I've already done the bulk of the research and write up in \nResearch static site testing\n for the wear.github.io project.\n\n\nHypothesis\n\n\nDevelopers would like to read an article that explains how to test static sites.\n\n\nAudience\n\n\n\n\nWeb developers everywhere\n\n\nIndividuals interested in TDD / BDD\n\n\nIndividuals interested in ustwo\u2019s tech blog\n\n\n\n\nValue\n\n\n\n\nIncreased ustwo\u2019s presence and visibility within the tech community\n\n\nShare knowledge with developers in other studios and beyond\n\n\nGive back to the open source community\n\n\n\n\nObjectives to reach value\n\n\n\n\nFinish research into static site testing\n\n\nWrite a simple and effective \u201cHow to\u201d.\n\n\nCreate open source examples to support the article.\n\n\nIntegrate Disqus to communicate with the community.\n\n\n\n\nValidation Plan\n\n\n\n\nTrack page hits via Google Analytics\n\n\nGauge the communities reaction via posted comments\n\n\n\n\nWhat does MVP look like?\n\n\nA simple blog post on ustwo New York\u2019s tech blog.\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Developer\n\n\n( 1 ) Visual Designer to style site and post\n\n\n\n\nTimeline estimation to MVP\n\n\n2 week to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nustwo Tech Team\n\n\nMarketing Department\n\n\nTech Director", 
+            "title": "The State of static site testing"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#blog-post-why-the-mvc-architectural-pattern-is-so-important-to-app-development", 
+            "text": "", 
+            "title": "Blog post: \"Why the MVC architectural pattern is so important to app development\""
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#opportunity", 
+            "text": "Currently there is no ( or are very few ) blog posts that discuss testing static sites. Most posts focus on testing web apps. I've already done the bulk of the research and write up in  Research static site testing  for the wear.github.io project.", 
+            "title": "Opportunity"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#hypothesis", 
+            "text": "Developers would like to read an article that explains how to test static sites.", 
+            "title": "Hypothesis"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#audience", 
+            "text": "Web developers everywhere  Individuals interested in TDD / BDD  Individuals interested in ustwo\u2019s tech blog", 
+            "title": "Audience"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#value", 
+            "text": "Increased ustwo\u2019s presence and visibility within the tech community  Share knowledge with developers in other studios and beyond  Give back to the open source community", 
+            "title": "Value"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#objectives-to-reach-value", 
+            "text": "Finish research into static site testing  Write a simple and effective \u201cHow to\u201d.  Create open source examples to support the article.  Integrate Disqus to communicate with the community.", 
+            "title": "Objectives to reach value"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#validation-plan", 
+            "text": "Track page hits via Google Analytics  Gauge the communities reaction via posted comments", 
+            "title": "Validation Plan"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#what-does-mvp-look-like", 
+            "text": "A simple blog post on ustwo New York\u2019s tech blog.", 
+            "title": "What does MVP look like?"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#casting-human-resource-needs", 
+            "text": "( 1 ) Developer  ( 1 ) Visual Designer to style site and post", 
+            "title": "Casting / Human Resource needs"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#timeline-estimation-to-mvp", 
+            "text": "2 week to get to MVP.", 
+            "title": "Timeline estimation to MVP"
+        }, 
+        {
+            "location": "/proposals/the-state-of-static-site-testing/#accountability-stakeholders", 
+            "text": "ustwo Tech Team  Marketing Department  Tech Director", 
+            "title": "Accountability / Stakeholders"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/", 
+            "text": "App Metics Page\n\n\nA dashboard for measuring an an app\u2019s performance compared to its success criteria\n\n\nOpportunity\n\n\nIt\u2019s important for projects to have measurable success criteria. Otherwise we would never really know if we\u2019re doing a good job. While we take great care to create meaningful and measurable success metrics, its easy to loose sight of how the current iteration of the project is meeting or missing them. If we had better visibility into our app's performance compared to our success criteria, we\u2019d be able to make better informed decisions about the quality of the implementation or the choice of features.\n\n\nHypothesis\n\n\nCreating a dashboard for each project that shows how an app is performing with respect its success criteria will allow teams to derive valuable insights about how the app is working. We\u2019ll be able to collect the data we need by using Google Analytics.\n\n\nAudience\n\n\n\n\nProduct Owners\n\n\nProduct Teams\n\n\nUX Designers\n\n\nustowbies\n\n\n\n\nValue\n\n\n\n\nEncourage decisions to be based on data\n\n\nEncourage data centered thinking\n\n\nIncrease team visibility, understanding, and focus on success criteria\n\n\n\n\nObjectives to reach value\n\n\n\n\nBuild and release a metrics page for a project that has defined measurable success criteria\n\n\nWhite label the project so it can be easily used on other projects\n\n\n\n\nValidation Plan\n\n\n\n\nEvaluate whether the app metrics page allows the team to derive valuable insights about how the app is working\n\n\n\n\nWhat does MVP look like?\n\n\n\n\nStatic page\n\n\nVisualization of metics\n\n\nParagraph about the metrics, why they were chosen, and what they mean\n\n\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Visual Designer\n\n\n( 1 ) Developer\n\n\n\n\nTimeline estimation to MVP\n\n\n2 weeks to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nProject Teams\n\n\nProduct Owners\n\n\nUX Designers\n\n\n\n\nNew skills utilized:\n\n\n\n\nStatic sites\n\n\nD3.js\n\n\nGoogle Analtics API\n\n\nES6 \n ES7 specifications\n\n\nPolished CTAs animations, easing, timings", 
+            "title": "App Metrics Page"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#app-metics-page", 
+            "text": "A dashboard for measuring an an app\u2019s performance compared to its success criteria", 
+            "title": "App Metics Page"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#opportunity", 
+            "text": "It\u2019s important for projects to have measurable success criteria. Otherwise we would never really know if we\u2019re doing a good job. While we take great care to create meaningful and measurable success metrics, its easy to loose sight of how the current iteration of the project is meeting or missing them. If we had better visibility into our app's performance compared to our success criteria, we\u2019d be able to make better informed decisions about the quality of the implementation or the choice of features.", 
+            "title": "Opportunity"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#hypothesis", 
+            "text": "Creating a dashboard for each project that shows how an app is performing with respect its success criteria will allow teams to derive valuable insights about how the app is working. We\u2019ll be able to collect the data we need by using Google Analytics.", 
+            "title": "Hypothesis"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#audience", 
+            "text": "Product Owners  Product Teams  UX Designers  ustowbies", 
+            "title": "Audience"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#value", 
+            "text": "Encourage decisions to be based on data  Encourage data centered thinking  Increase team visibility, understanding, and focus on success criteria", 
+            "title": "Value"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#objectives-to-reach-value", 
+            "text": "Build and release a metrics page for a project that has defined measurable success criteria  White label the project so it can be easily used on other projects", 
+            "title": "Objectives to reach value"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#validation-plan", 
+            "text": "Evaluate whether the app metrics page allows the team to derive valuable insights about how the app is working", 
+            "title": "Validation Plan"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#what-does-mvp-look-like", 
+            "text": "Static page  Visualization of metics  Paragraph about the metrics, why they were chosen, and what they mean", 
+            "title": "What does MVP look like?"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#casting-human-resource-needs", 
+            "text": "( 1 ) Visual Designer  ( 1 ) Developer", 
+            "title": "Casting / Human Resource needs"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#timeline-estimation-to-mvp", 
+            "text": "2 weeks to get to MVP.", 
+            "title": "Timeline estimation to MVP"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#accountability-stakeholders", 
+            "text": "Project Teams  Product Owners  UX Designers", 
+            "title": "Accountability / Stakeholders"
+        }, 
+        {
+            "location": "/proposals/app-metrics-page/#new-skills-utilized", 
+            "text": "Static sites  D3.js  Google Analtics API  ES6   ES7 specifications  Polished CTAs animations, easing, timings", 
+            "title": "New skills utilized:"
         }
     ]
 }
