@@ -82,12 +82,12 @@
         }, 
         {
             "location": "/proposals/", 
-            "text": "Proposals\n\n\n\n\nBlog post: \"Building client side apps with Travis\"\n\n\nOpen source api framework based on Django\n\n\nOpen source hybrid app framework based on ionic / angular 1 / angular 2\n\n\nApp metrics page\n\n\nPing -- minimalist location requesting app\n\n\nTeam standards. Make them generic and applicable to any team\n\n\nRogo.js -- an javascript sdk for interacting with Rogo", 
+            "text": "Proposals\n\n\n\n\nBlog post: \"Building client side apps with Travis\"\n\n\ncookiecutter-django-rest\n: an open source api framework based on Django\n\n\ncookiecutter-ionic\n: an open source hybrid app framework based on ionic / angular 1 / angular 2\n\n\nApp metrics page\n\n\nBlog post: \"The State of static site testing\"\n\n\nBlog post: \"Why the MVC architecutal pattern is so important to app development\"\n\n\nPing -- minimalist location requesting app\n\n\nTeam standards. Make them generic and applicable to any team\n\n\nRogo.js", 
             "title": "Home"
         }, 
         {
             "location": "/proposals/#proposals", 
-            "text": "Blog post: \"Building client side apps with Travis\"  Open source api framework based on Django  Open source hybrid app framework based on ionic / angular 1 / angular 2  App metrics page  Ping -- minimalist location requesting app  Team standards. Make them generic and applicable to any team  Rogo.js -- an javascript sdk for interacting with Rogo", 
+            "text": "Blog post: \"Building client side apps with Travis\"  cookiecutter-django-rest : an open source api framework based on Django  cookiecutter-ionic : an open source hybrid app framework based on ionic / angular 1 / angular 2  App metrics page  Blog post: \"The State of static site testing\"  Blog post: \"Why the MVC architecutal pattern is so important to app development\"  Ping -- minimalist location requesting app  Team standards. Make them generic and applicable to any team  Rogo.js", 
             "title": "Proposals"
         }, 
         {
@@ -149,6 +149,71 @@
             "location": "/proposals/building-client-side-apps-with-travis/#accountability-stakeholders", 
             "text": "ustwo Tech Team  Marketing Department  Tech Director", 
             "title": "Accountability / Stakeholders"
+        }, 
+        {
+            "location": "/proposals/rogojs/", 
+            "text": "Rogo.js\n\n\nAn javascript sdk for interacting with Rogo\n\n\nOpportunity\n\n\nWith new Rogo rest API, we can retrieve information from Rogo more easily than ever before. Our new OKRs focus on increasing transparency into and spreading knowledge about ustwo\u2019s inner workings. We can achieve those OKRs by creating applications that leverage the new rest API. The studio.ustwo.com project is an example of one of those applications and it needs an sdk like this. Since the Rogo rest api is new, we have yet to set a standard of how client-side applications interact with Rogo.\n\n\nHypothesis\n\n\nWe\u2019ll create many applications that need Rogo\u2019s data in the future. Having a javascript sdk will improve this process.  \n\n\nAudience\n\n\n\n\nustwo tech team\n\n\n\n\nValue\n\n\n\n\nIncreased efficiency in consuming Rogo\u2019s data in client-side applications.\n\n\nReduced development time for internal apps that need rogo\u2019s data.\n\n\nKeeps our project\u2019s DRY with respect to the ustwo tech team.\n\n\n\n\nObjectives to reach value\n\n\n\n\nBuild and release a javascript sdk for interacting with Rogo\u2019s rest api\n\n\n\n\nValidation Plan\n\n\n\n\nDevelopers will be able to use Rogo.js easily.\n\n\n\n\nWhat does MVP look like?\n\n\n\n\nA javascript sdk\n\n\nDetailed Documentation\n\n\nThorough test coverage\n\n\nPrivate npm package\n\n\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Developer\n\n\n\n\nTimeline estimation to MVP\n\n\n3 weeks to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nSimon Lindsay\n\n\nTech Director\n\n\nRogo Team\n\n\n\n\nNew skills utilized\n\n\n\n\nES6 \n ES7 specifciaions", 
+            "title": "Rogojs"
+        }, 
+        {
+            "location": "/proposals/rogojs/#rogojs", 
+            "text": "An javascript sdk for interacting with Rogo", 
+            "title": "Rogo.js"
+        }, 
+        {
+            "location": "/proposals/rogojs/#opportunity", 
+            "text": "With new Rogo rest API, we can retrieve information from Rogo more easily than ever before. Our new OKRs focus on increasing transparency into and spreading knowledge about ustwo\u2019s inner workings. We can achieve those OKRs by creating applications that leverage the new rest API. The studio.ustwo.com project is an example of one of those applications and it needs an sdk like this. Since the Rogo rest api is new, we have yet to set a standard of how client-side applications interact with Rogo.", 
+            "title": "Opportunity"
+        }, 
+        {
+            "location": "/proposals/rogojs/#hypothesis", 
+            "text": "We\u2019ll create many applications that need Rogo\u2019s data in the future. Having a javascript sdk will improve this process.", 
+            "title": "Hypothesis"
+        }, 
+        {
+            "location": "/proposals/rogojs/#audience", 
+            "text": "ustwo tech team", 
+            "title": "Audience"
+        }, 
+        {
+            "location": "/proposals/rogojs/#value", 
+            "text": "Increased efficiency in consuming Rogo\u2019s data in client-side applications.  Reduced development time for internal apps that need rogo\u2019s data.  Keeps our project\u2019s DRY with respect to the ustwo tech team.", 
+            "title": "Value"
+        }, 
+        {
+            "location": "/proposals/rogojs/#objectives-to-reach-value", 
+            "text": "Build and release a javascript sdk for interacting with Rogo\u2019s rest api", 
+            "title": "Objectives to reach value"
+        }, 
+        {
+            "location": "/proposals/rogojs/#validation-plan", 
+            "text": "Developers will be able to use Rogo.js easily.", 
+            "title": "Validation Plan"
+        }, 
+        {
+            "location": "/proposals/rogojs/#what-does-mvp-look-like", 
+            "text": "A javascript sdk  Detailed Documentation  Thorough test coverage  Private npm package", 
+            "title": "What does MVP look like?"
+        }, 
+        {
+            "location": "/proposals/rogojs/#casting-human-resource-needs", 
+            "text": "( 1 ) Developer", 
+            "title": "Casting / Human Resource needs"
+        }, 
+        {
+            "location": "/proposals/rogojs/#timeline-estimation-to-mvp", 
+            "text": "3 weeks to get to MVP.", 
+            "title": "Timeline estimation to MVP"
+        }, 
+        {
+            "location": "/proposals/rogojs/#accountability-stakeholders", 
+            "text": "Simon Lindsay  Tech Director  Rogo Team", 
+            "title": "Accountability / Stakeholders"
+        }, 
+        {
+            "location": "/proposals/rogojs/#new-skills-utilized", 
+            "text": "ES6   ES7 specifciaions", 
+            "title": "New skills utilized"
         }
     ]
 }
