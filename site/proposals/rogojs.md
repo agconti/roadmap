@@ -46,6 +46,6 @@ We’ll create many applications that need Rogo’s data in the future. Having a
 - Tech Director
 - Rogo Team
 
-# New skills utilized
+## New skills utilized
 
 - ES6 & ES7 specifciaions

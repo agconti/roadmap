@@ -39,3 +39,7 @@
 - HR Manager
 - New Employee
 - Current Employee
+
+## New skills utilized
+
+-
