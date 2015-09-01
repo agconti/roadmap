@@ -8,4 +8,4 @@
 - Blog post: "Why the MVC architecutal pattern is so important to app development"
 - Ping -- minimalist location requesting app
 - Team standards. Make them generic and applicable to any team
-- Rogo.js -- an javascript sdk for interacting with Rogo
+- [Rogo.js](rogojs.md)
