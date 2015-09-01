@@ -7,5 +7,6 @@
 - [Blog post: "The State of static site testing"](the-state-of-static-site-testing.md)
 - Blog post: "Why the MVC architecutal pattern is so important to app development"
 - Ping -- minimalist location requesting app
+- [App metrics page](app-metrics-page.md)
 - Team standards. Make them generic and applicable to any team
 - [Rogo.js](rogojs.md)
