@@ -18,3 +18,4 @@ pages:
     - "Building client side apps with Travis": 'proposals/building-client-side-apps-with-travis.md'
     - Rogojs: "proposals/rogojs.md"
     - "The State of static site testing": "proposals/the-state-of-static-site-testing.md"
+    - "App Metrics Page": 'proposals/app-metrics-page.md'
