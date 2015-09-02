@@ -4,7 +4,7 @@ An open source framework for building rest apis for mobile and web applications.
 ## Opportunity
 ustwo New York doesn’t have an established backend framework. Having one will allow us to develop projects faster and more efficiently. This will become more important the more venture, partnership, and startup work we do. ustwo is committed to focusing on these types of projects in 2016. In our 2015 OKRs, we’re looking for open source projects to contribute to. The [`cookiecutter-django-rest` project](https://github.com/agconti/cookiecutter-django-rest) is an open source framework for building rest apis for mobile and web applications. Its adoption will help us achieve these goals. The project is currently looking for community support.
 
-This project has an important synergy with the `cookiecutter-hybrid-apps` project. Using both would allow us to create high quality prototypes for pitches within budget.
+This project has an important synergy with the [`cookiecutter-hybrid-apps`](cookiecutter-hybrid-apps.md) project. Using both would allow us to create high quality prototypes for pitches within budget.
 
 ## Hypothesis
 The ustwo tech team will benefit by contributing to the [`cookiecutter-django-rest` project](https://github.com/agconti/cookiecutter-django-rest) through increased visibility in the open source community and internally by using it for ventures, partnerships, startup work, and pitch prototypes.  
