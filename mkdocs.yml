@@ -20,3 +20,4 @@ pages:
     - "The State of static site testing": "proposals/the-state-of-static-site-testing.md"
     - "App Metrics Page": 'proposals/app-metrics-page.md'
     - "Cookiecutter Django Rest": 'proposals/cookiecutter-django-rest.md'
+    - "Cookiecutter Hybrid Apps": "proposals/cookiecutter-hybrid-apps.md" 
