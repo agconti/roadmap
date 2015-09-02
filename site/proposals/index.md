@@ -1,7 +1,7 @@
 # Proposals
 
-- [Blog post: "Building client side apps with Travis"]("Building client side apps with Travis")
-- `cookiecutter-django-rest`: an open source api framework based on Django
+- [Blog post: "Building client side apps with Travis"](building-client-side-apps-with-travis.md)
+- [`cookiecutter-django-rest`: an open source api framework based on Django](cookiecutter-django-rest.md)
 - `cookiecutter-ionic`: an open source hybrid app framework based on ionic / angular 1 / angular 2
 - App metrics page
 - [Blog post: "The State of static site testing"](the-state-of-static-site-testing.md)
