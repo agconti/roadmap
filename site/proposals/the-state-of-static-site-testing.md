@@ -1,4 +1,4 @@
-# Blog post: "Why the MVC architectural pattern is so important to app development"
+# Blog post: "The state of static site testing"
 
 ## Opportunity
 Currently there is no ( or are very few ) blog posts that discuss testing static sites. Most posts focus on testing web apps. I've already done the bulk of the research and write up in [Research static site testing](https://github.com/ustwo/wear.ustwo.com/issues/38) for the wear.github.io project.
