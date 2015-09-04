@@ -82,12 +82,12 @@
         }, 
         {
             "location": "/proposals/", 
-            "text": "Proposals\n\n\n\n\nBlog post: \"Building client side apps with Travis\"\n\n\ncookiecutter-django-rest\n: an open source api framework based on Django\n\n\ncookiecutter-ionic\n: an open source hybrid app framework based on ionic / angular 1 / angular 2\n\n\nApp metrics page\n\n\nBlog post: \"The State of static site testing\"\n\n\nBlog post: \"Why the MVC architecutal pattern is so important to app development\"\n\n\nPing -- minimalist location requesting app\n\n\nApp metrics page\n\n\nTeam standards. Make them generic and applicable to any team\n\n\nRogo.js", 
+            "text": "Proposals\n\n\n\n\nBlog post: \"Building client side apps with Travis\"\n\n\ncookiecutter-django-rest\n: an open source api framework based on Django\n\n\ncookiecutter-hybrid-apps\n: an open source hybrid app framework based on ionic / angular 1 / angular 2\n\n\nBlog post: \"The state of static site testing\"\n\n\nBlog post: \"Why the MVC architecutal pattern is so important to app development\"\n\n\nPing -- minimalist location requesting app\n\n\nApp metrics page\n\n\nTeam standards. Make them generic and applicable to any team\n\n\nRogo.js", 
             "title": "Home"
         }, 
         {
             "location": "/proposals/#proposals", 
-            "text": "Blog post: \"Building client side apps with Travis\"  cookiecutter-django-rest : an open source api framework based on Django  cookiecutter-ionic : an open source hybrid app framework based on ionic / angular 1 / angular 2  App metrics page  Blog post: \"The State of static site testing\"  Blog post: \"Why the MVC architecutal pattern is so important to app development\"  Ping -- minimalist location requesting app  App metrics page  Team standards. Make them generic and applicable to any team  Rogo.js", 
+            "text": "Blog post: \"Building client side apps with Travis\"  cookiecutter-django-rest : an open source api framework based on Django  cookiecutter-hybrid-apps : an open source hybrid app framework based on ionic / angular 1 / angular 2  Blog post: \"The state of static site testing\"  Blog post: \"Why the MVC architecutal pattern is so important to app development\"  Ping -- minimalist location requesting app  App metrics page  Team standards. Make them generic and applicable to any team  Rogo.js", 
             "title": "Proposals"
         }, 
         {
@@ -217,13 +217,13 @@
         }, 
         {
             "location": "/proposals/the-state-of-static-site-testing/", 
-            "text": "Blog post: \"Why the MVC architectural pattern is so important to app development\"\n\n\nOpportunity\n\n\nCurrently there is no ( or are very few ) blog posts that discuss testing static sites. Most posts focus on testing web apps. I've already done the bulk of the research and write up in \nResearch static site testing\n for the wear.github.io project.\n\n\nHypothesis\n\n\nDevelopers would like to read an article that explains how to test static sites.\n\n\nAudience\n\n\n\n\nWeb developers everywhere\n\n\nIndividuals interested in TDD / BDD\n\n\nIndividuals interested in ustwo\u2019s tech blog\n\n\n\n\nValue\n\n\n\n\nIncreased ustwo\u2019s presence and visibility within the tech community\n\n\nShare knowledge with developers in other studios and beyond\n\n\nGive back to the open source community\n\n\n\n\nObjectives to reach value\n\n\n\n\nFinish research into static site testing\n\n\nWrite a simple and effective \u201cHow to\u201d.\n\n\nCreate open source examples to support the article.\n\n\nIntegrate Disqus to communicate with the community.\n\n\n\n\nValidation Plan\n\n\n\n\nTrack page hits via Google Analytics\n\n\nGauge the communities reaction via posted comments\n\n\n\n\nWhat does MVP look like?\n\n\nA simple blog post on ustwo New York\u2019s tech blog.\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Developer\n\n\n( 1 ) Visual Designer to style site and post\n\n\n\n\nTimeline estimation to MVP\n\n\n2 week to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nustwo Tech Team\n\n\nMarketing Department\n\n\nTech Director", 
+            "text": "Blog post: \"The state of static site testing\"\n\n\nOpportunity\n\n\nCurrently there is no ( or are very few ) blog posts that discuss testing static sites. Most posts focus on testing web apps. I've already done the bulk of the research and write up in \nResearch static site testing\n for the wear.github.io project.\n\n\nHypothesis\n\n\nDevelopers would like to read an article that explains how to test static sites.\n\n\nAudience\n\n\n\n\nWeb developers everywhere\n\n\nIndividuals interested in TDD / BDD\n\n\nIndividuals interested in ustwo\u2019s tech blog\n\n\n\n\nValue\n\n\n\n\nIncreased ustwo\u2019s presence and visibility within the tech community\n\n\nShare knowledge with developers in other studios and beyond\n\n\nGive back to the open source community\n\n\n\n\nObjectives to reach value\n\n\n\n\nFinish research into static site testing\n\n\nWrite a simple and effective \u201cHow to\u201d.\n\n\nCreate open source examples to support the article.\n\n\nIntegrate Disqus to communicate with the community.\n\n\n\n\nValidation Plan\n\n\n\n\nTrack page hits via Google Analytics\n\n\nGauge the communities reaction via posted comments\n\n\n\n\nWhat does MVP look like?\n\n\nA simple blog post on ustwo New York\u2019s tech blog.\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Developer\n\n\n( 1 ) Visual Designer to style site and post\n\n\n\n\nTimeline estimation to MVP\n\n\n2 week to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nustwo Tech Team\n\n\nMarketing Department\n\n\nTech Director", 
             "title": "The State of static site testing"
         }, 
         {
-            "location": "/proposals/the-state-of-static-site-testing/#blog-post-why-the-mvc-architectural-pattern-is-so-important-to-app-development", 
+            "location": "/proposals/the-state-of-static-site-testing/#blog-post-the-state-of-static-site-testing", 
             "text": "", 
-            "title": "Blog post: \"Why the MVC architectural pattern is so important to app development\""
+            "title": "Blog post: \"The state of static site testing\""
         }, 
         {
             "location": "/proposals/the-state-of-static-site-testing/#opportunity", 
@@ -339,6 +339,136 @@
             "location": "/proposals/app-metrics-page/#new-skills-utilized", 
             "text": "Static sites  D3.js  Google Analtics API  ES6   ES7 specifications  Polished CTAs animations, easing, timings", 
             "title": "New skills utilized:"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/", 
+            "text": "Cookiecutter Django Rest\n\n\nAn open source framework for building rest apis for mobile and web applications.\n\n\nOpportunity\n\n\nustwo New York doesn\u2019t have an established backend framework. Having one will allow us to develop projects faster and more efficiently. This will become more important the more venture, partnership, and startup work we do. ustwo is committed to focusing on these types of projects in 2016. In our 2015 OKRs, we\u2019re looking for open source projects to contribute to. The \ncookiecutter-django-rest\n project\n is an open source framework for building rest apis for mobile and web applications. Its adoption will help us achieve these goals. The project is currently looking for community support.\n\n\nThis project has an important synergy with the \ncookiecutter-hybrid-apps\n project. Using both would allow us to create high quality prototypes for pitches within budget.\n\n\nHypothesis\n\n\nThe ustwo tech team will benefit by contributing to the \ncookiecutter-django-rest\n project\n through increased visibility in the open source community and internally by using it for ventures, partnerships, startup work, and pitch prototypes.  \n\n\nAudience\n\n\n\n\nustwo tech team\n\n\nustwo new business team\n\n\nustwo clients\n\n\n\n\nValue\n\n\n\n\nAllows for technological learnings and skills to be consolidated and preserved from project to project\n\n\nAllows us to focus on writing business logic for our applications instead of boilerplate tasks like authentication, setup, and deployment\n\n\nReduces the costs of pitches, internal ventures, and client service projects\n\n\nIncreased presence in the open source community for ustwo\n\n\nStrengthens the ustwo New York tech profile\n\n\nShowcases ustwo New York\u2019s compactly with back-end languages\n\n\nCompletes a tech team OKR for 2015\n\n\n\n\nObjectives to reach value\n\n\n\n\nComplete MVP release, by adding additional documentation and tests.\n\n\n\n\nValidation Plan\n\n\n\n\nMeasure the cost of internal ventures using the project and otherwise\n\n\nCompare infrastructure bugs for projects using the  \ncookiecutter-django-rest\n and those that don\u2019t\n\n\nAnalyze how the open source community receives the project\n\n\n\n\nWhat does MVP look like?\n\n\n\n\nCompleted \nrelease 0.1.0\n\n\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Developer\n\n\n\n\nTimeline estimation to MVP\n\n\n1 week to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nTech Director\n\n\nustwo tech team\n\n\nustwo new business team\n\n\n\n\nNew skills utilized\n\n\n\n\nStatic sites\n\n\nPolished CTAs animations, easing, timings", 
+            "title": "Cookiecutter Django Rest"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#cookiecutter-django-rest", 
+            "text": "An open source framework for building rest apis for mobile and web applications.", 
+            "title": "Cookiecutter Django Rest"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#opportunity", 
+            "text": "ustwo New York doesn\u2019t have an established backend framework. Having one will allow us to develop projects faster and more efficiently. This will become more important the more venture, partnership, and startup work we do. ustwo is committed to focusing on these types of projects in 2016. In our 2015 OKRs, we\u2019re looking for open source projects to contribute to. The  cookiecutter-django-rest  project  is an open source framework for building rest apis for mobile and web applications. Its adoption will help us achieve these goals. The project is currently looking for community support.  This project has an important synergy with the  cookiecutter-hybrid-apps  project. Using both would allow us to create high quality prototypes for pitches within budget.", 
+            "title": "Opportunity"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#hypothesis", 
+            "text": "The ustwo tech team will benefit by contributing to the  cookiecutter-django-rest  project  through increased visibility in the open source community and internally by using it for ventures, partnerships, startup work, and pitch prototypes.", 
+            "title": "Hypothesis"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#audience", 
+            "text": "ustwo tech team  ustwo new business team  ustwo clients", 
+            "title": "Audience"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#value", 
+            "text": "Allows for technological learnings and skills to be consolidated and preserved from project to project  Allows us to focus on writing business logic for our applications instead of boilerplate tasks like authentication, setup, and deployment  Reduces the costs of pitches, internal ventures, and client service projects  Increased presence in the open source community for ustwo  Strengthens the ustwo New York tech profile  Showcases ustwo New York\u2019s compactly with back-end languages  Completes a tech team OKR for 2015", 
+            "title": "Value"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#objectives-to-reach-value", 
+            "text": "Complete MVP release, by adding additional documentation and tests.", 
+            "title": "Objectives to reach value"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#validation-plan", 
+            "text": "Measure the cost of internal ventures using the project and otherwise  Compare infrastructure bugs for projects using the   cookiecutter-django-rest  and those that don\u2019t  Analyze how the open source community receives the project", 
+            "title": "Validation Plan"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#what-does-mvp-look-like", 
+            "text": "Completed  release 0.1.0", 
+            "title": "What does MVP look like?"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#casting-human-resource-needs", 
+            "text": "( 1 ) Developer", 
+            "title": "Casting / Human Resource needs"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#timeline-estimation-to-mvp", 
+            "text": "1 week to get to MVP.", 
+            "title": "Timeline estimation to MVP"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#accountability-stakeholders", 
+            "text": "Tech Director  ustwo tech team  ustwo new business team", 
+            "title": "Accountability / Stakeholders"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-django-rest/#new-skills-utilized", 
+            "text": "Static sites  Polished CTAs animations, easing, timings", 
+            "title": "New skills utilized"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/", 
+            "text": "Cookiecutter Hybrid Apps\n\n\nAn open source framework for hybrid mobile applications.\n\n\nOpportunity\n\n\nWe\u2019re constantly doing pitches. A great way to push our pitch over the top is to include a working prototype of what we\u2019re proposing. Making them from scratch is too expensive for most projects. Having a white label project for hybrid apps would allow ustwo to develop prototypes and projects faster and more efficiently. This will become more important the more ventures, partnerships, and startup work we do. ustwo is committed to focusing on these types of projects in 2016. In our 2015 OKRs, we\u2019re looking for open source projects to contribute to. The \ncookiecutter-ionic\n project\n is an open source framework for building hybrid mobile apps and its adoption will help us achieve these goals. The project is currently looking for community support.\n\n\nHypothesis\n\n\nThe ustwo tech team will benefit by contributing to the \ncookiecutter-hybrid-apps\n project\n through increased visibility in the open source community and internally by using it for pitch prototypes, ventures, partnerships, and startup work.  \n\n\nAudience\n\n\n\n\nPerspective clients\n\n\nProduct teams\n\n\nustwo new business team\n\n\nPerspective tech talent\n\n\n\n\nValue\n\n\n\n\nAllows for technological learnings and skills to be consolidated and preserved from project to project\n\n\nAllows us to focus on writing business logic for our applications instead of boilerplate tasks like authentication, setup, and deployment\n\n\nAllows ustwo new business team to have stronger pitches.\n\n\nAllows ustwo tech to leverage more of the tech team for pitches and projects that require custom apps.\n\n\nReduces the costs of pitch prototypes, ventures, partnerships, and startup work.\n\n\nIncreased presence in the open source community for ustwo\n\n\nStrengthens the ustwo New York tech profile\n\n\nCompletes a tech team OKR for 2015\n\n\n\n\nObjectives to reach value\n\n\n\n\nComplete MVP release.\n\n\nUse the project successfully on a pitch\n\n\nUse the project successfully on a project\n\n\n\n\nValidation Plan\n\n\n\n\nMeasure the cost of project using the framework and otherwise\n\n\nCompare infrastructure bugs for projects using the  \ncookiecutter-ionic\n and those that don\u2019t\n\n\nAnalyze how the open source community receives the project\n\n\n\n\nWhat does MVP look like?\n\n\n\n\nA working cookie cutter that solves the general needs of creating a hybrid application\n\n\n\n\nCasting / Human Resource needs\n\n\n\n\n( 1 ) Developer\n\n\n\n\nTimeline estimation to MVP\n\n\n4 weeks to get to MVP.\n\n\nAccountability / Stakeholders\n\n\n\n\nustwo tech team\n\n\nustwo new business team\n\n\n\n\nNew skills utilized\n\n\n\n\nES6 \n ES7 specifications\n\n\nAngular 2.0\n\n\nPolished CTAs animations, easing, timings\n\n\nCreating hybrid apps\n\n\nStatic sites\n\n\nGoogle Analytics API", 
+            "title": "Cookiecutter Hybrid Apps"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#cookiecutter-hybrid-apps", 
+            "text": "An open source framework for hybrid mobile applications.", 
+            "title": "Cookiecutter Hybrid Apps"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#opportunity", 
+            "text": "We\u2019re constantly doing pitches. A great way to push our pitch over the top is to include a working prototype of what we\u2019re proposing. Making them from scratch is too expensive for most projects. Having a white label project for hybrid apps would allow ustwo to develop prototypes and projects faster and more efficiently. This will become more important the more ventures, partnerships, and startup work we do. ustwo is committed to focusing on these types of projects in 2016. In our 2015 OKRs, we\u2019re looking for open source projects to contribute to. The  cookiecutter-ionic  project  is an open source framework for building hybrid mobile apps and its adoption will help us achieve these goals. The project is currently looking for community support.", 
+            "title": "Opportunity"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#hypothesis", 
+            "text": "The ustwo tech team will benefit by contributing to the  cookiecutter-hybrid-apps  project  through increased visibility in the open source community and internally by using it for pitch prototypes, ventures, partnerships, and startup work.", 
+            "title": "Hypothesis"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#audience", 
+            "text": "Perspective clients  Product teams  ustwo new business team  Perspective tech talent", 
+            "title": "Audience"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#value", 
+            "text": "Allows for technological learnings and skills to be consolidated and preserved from project to project  Allows us to focus on writing business logic for our applications instead of boilerplate tasks like authentication, setup, and deployment  Allows ustwo new business team to have stronger pitches.  Allows ustwo tech to leverage more of the tech team for pitches and projects that require custom apps.  Reduces the costs of pitch prototypes, ventures, partnerships, and startup work.  Increased presence in the open source community for ustwo  Strengthens the ustwo New York tech profile  Completes a tech team OKR for 2015", 
+            "title": "Value"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#objectives-to-reach-value", 
+            "text": "Complete MVP release.  Use the project successfully on a pitch  Use the project successfully on a project", 
+            "title": "Objectives to reach value"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#validation-plan", 
+            "text": "Measure the cost of project using the framework and otherwise  Compare infrastructure bugs for projects using the   cookiecutter-ionic  and those that don\u2019t  Analyze how the open source community receives the project", 
+            "title": "Validation Plan"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#what-does-mvp-look-like", 
+            "text": "A working cookie cutter that solves the general needs of creating a hybrid application", 
+            "title": "What does MVP look like?"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#casting-human-resource-needs", 
+            "text": "( 1 ) Developer", 
+            "title": "Casting / Human Resource needs"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#timeline-estimation-to-mvp", 
+            "text": "4 weeks to get to MVP.", 
+            "title": "Timeline estimation to MVP"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#accountability-stakeholders", 
+            "text": "ustwo tech team  ustwo new business team", 
+            "title": "Accountability / Stakeholders"
+        }, 
+        {
+            "location": "/proposals/cookiecutter-hybrid-apps/#new-skills-utilized", 
+            "text": "ES6   ES7 specifications  Angular 2.0  Polished CTAs animations, easing, timings  Creating hybrid apps  Static sites  Google Analytics API", 
+            "title": "New skills utilized"
         }
     ]
 }

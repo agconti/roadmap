@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,37 +13,37 @@
         
     <url>
      <loc>None/skills/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/skills/es6-es7/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/skills/angular-2/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/skills/nosql/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/skills/machine-learning/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/skills/static-sites/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -53,31 +53,43 @@
         
     <url>
      <loc>None/proposals/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/proposals/building-client-side-apps-with-travis/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/proposals/rogojs/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/proposals/the-state-of-static-site-testing/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/proposals/app-metrics-page/</loc>
-     <lastmod>2015-09-01</lastmod>
+     <lastmod>2015-09-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/proposals/cookiecutter-django-rest/</loc>
+     <lastmod>2015-09-04</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/proposals/cookiecutter-hybrid-apps/</loc>
+     <lastmod>2015-09-04</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
